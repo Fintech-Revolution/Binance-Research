@@ -9,8 +9,10 @@ Binance is a cryptocurrency trading exchange founded by Changpeng Zhao. The com
 ## What does binance cost?
 
 Trading fees: 
-General: 0.1% spot trading fee
-0.5% buy/sell crypto fee
+> General: 0.1% 
+
+Spot trading fee
+> 0.5% buy/sell crypto fee
 
 ## How is the community of binance?
 
@@ -56,4 +58,13 @@ Cons:
 
 ## Conclusion
 
-Binance is big and has a large community. It also has low fees and a good coin selection. The binance chain can be a good choice to build our swap on because experts say that it is easy to build on this blockchain. 
+Binance is big and has a large community. It also has low fees and a good coin selection. The binance chain can be a good choice to build our swap on because experts say that it is easy to build on this blockchain.
+
+## Sources
+
+> - https://docs.binance.org/
+> - https://github.com/bnb-chain/docs-site/blob/master/docs/smart-chain/wallet/metamask.md
+> - https://moralis.io/how-to-create-a-bsc-token-in-5-steps/ 
+> - Conway, L. (2021, 27 oktober). What Is Binance Coin? Is It a Good Investment? The Street Crypto: Bitcoin and Cryptocurrency News, Advice, Analysis and More. Geraadpleegd op 22 februari 2022, van https://www.thestreet.com/crypto/defi/what-is-binance-coin-is-it-a-good-investment
+> - Lencsés, G. C. (2021, 2 november). Binance review 2021 - Pros and Cons uncovered. BrokerChooser. Geraadpleegd op 22 februari 2022, van https://brokerchooser.com/reviews/crypto-exchanges/binance
+> - Van Vreeswijk, J. (2021, 21 april). Wat is het verschil tussen Binance Smart Chain en Binance Chain? AllesOverCrypto. Geraadpleegd op 22 februari 2022, van https://allesovercrypto.nl/blog/verschil-tussen-binance-smart-chain-binance-chain
